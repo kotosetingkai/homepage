@@ -74,6 +74,9 @@ b,
 strong {
   font-weight: 700;
 }
+.pt{
+  padding-top: 10px;
+}
 .text-center {
   text-align: center !important;
 }
@@ -150,6 +153,7 @@ ul,
 ol {
   padding-left: 1.25rem;
 }
+
 blockquote {
   border: 2px solid #f0f0f0;
   padding: 1.25rem;
@@ -2583,7 +2587,7 @@ nav.breadcrumb-nav ul li:last-child:after {
   .size-1520 {
     max-width: 480px;
   }
-  .reverse-konten{
+  .reverse-konten {
     display: flex;
     flex-direction: column-reverse;
   }
